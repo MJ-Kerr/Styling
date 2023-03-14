@@ -1,6 +1,20 @@
-.MyCloud { background-color: black; text-align: left;text-decoration: white; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+.MyCloud {
+    background-color: black;
+    text-align: left;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.projects { background-color: purple; text-align: center; text-decoration: white;font-style: italic;
+
+.projects {
+    background-color: purple;
+    text-align: center;
+    text-decoration: white;
+    font-style: italic;
+
+    color: white
 }
-.contact { background-color:lightblue; text-align: end;
+
+.contact {
+    background-color: lightblue;
+    text-align: end;
 }
