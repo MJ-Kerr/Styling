@@ -6,7 +6,7 @@
 }
 
 span {
-    color: blue
+    color: rgb(0, 213, 246)
 }
 
 .projects {
@@ -19,7 +19,7 @@ span {
 }
 
 .contact {
-    background-color: rgb(36, 140, 171);
+    background-color: rgb(80, 187, 220);
     text-align: end;
     text-decoration: underline;
 }
