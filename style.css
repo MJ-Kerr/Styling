@@ -4,7 +4,9 @@
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+span {
+    color:blue
+}
 .projects {
     background-color: purple;
     text-align: center;
@@ -15,6 +17,7 @@
 }
 
 .contact {
-    background-color: rgb(75, 65, 210);
+    background-color: rgb(36, 140, 171);
     text-align: end;
+    text-decoration: underline;
 }
